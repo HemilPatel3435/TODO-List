@@ -87,7 +87,7 @@ if($result){
 
   <div class="container my-4">
     <h2>Add a Note</h2>
-    <form action="/php/CRUD.php" method="post">
+    <form action="/php/TODO.php" method="post">
       <div class="mb-3">
         <label for="title" class="form-label">Note Title</label>
         <input type="text" class="form-control" id="title" name="title" aria-describedby="emailHelp">
